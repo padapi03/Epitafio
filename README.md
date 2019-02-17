@@ -16,5 +16,5 @@ Paula Pineda (Lider)
 
 ## Metodologia de diseño
 
-Nos basaremos en el metodo KISS (Keep It  Simple, Stupid) porque lo consideramos que mantenernos simples es la manera más viable de comenzar 
+Nos basaremos en el metodo KISS (Keep It  Simple, Stupid) porque lo consideramos que mantenernos simples es la manera más viable de comenzar este proyecto. 
  
