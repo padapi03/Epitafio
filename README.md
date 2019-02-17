@@ -1,19 +1,20 @@
 # Epitafio
 
-Integrantes 
+## Integrantes 
 
-Sol Botello( Programadora)
+Sol Botello (Programador)
 
-Samuel Serrano(Diseñador)
+Samuel Serrano (Diseñador)
 
 Nestor Chacon (Diseñador)
 
-Nikolas Lopez(Constructor)
+Nikolas Lopez (Constructor)
 
 Nelson Valbuena(Constructor) 
 
-Paula Pineda(Lider)
+Paula Pineda (Lider)
 
-Metodologia de diseño
+## Metodologia de diseño
 
-Se basara en el metodo KISS ( Keep It  Simple, Stupid) 
+Nos basaremos en el metodo KISS (Keep It  Simple, Stupid) porque lo consideramos que mantenernos simples es la manera más viable de comenzar 
+ 
