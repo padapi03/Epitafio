@@ -22,7 +22,7 @@ delayMicroseconds (10);
 
 digitalWrite (trigPin, LOW);
 duration = pulseIn (echoPin, HIGH);
-distance = 0.034 * duration
+distance = 0.034 * duration;
 
 if(distance < 5){
   for (int i = 4; i < 9; i++){
@@ -42,7 +42,7 @@ if(10 < distance && distance < 15){
   for (int i = 4; i < 7; i++){
     digitalWrite(i, HIGH);
   }
-}
+
 }
 if(15 < distance && distance < 20){
   digitalWrite (6,LOW);
