@@ -1,1 +1,22 @@
+## 1. Imagen del monteje (Fritzing)
 
+https://raw.githubusercontent.com/padapi03/Epitafio/master/Imagen/Untitled%20Sketch_bb.jpg
+## 2. Esquema del montaje (Fritzing)
+https://raw.githubusercontent.com/padapi03/Epitafio/master/Imagen/sensor.jpg
+
+## 3. Imagen del Funcionamiento
+
+
+## 4. ¿Cómo se arma?
+Utilizamos una placa Arduino Mega 2560 como batería, luego conectamos uno de los pines de la placa al protoboard en el lado positivo y el pin ground de la placa tambien al protoboard. Luego de hacer eso, conectamos una resistencia al pin cargado positivamente del protoboard junto al lado negativo del led (Catodo) y el lado positivo del led (Anodo) al lado positivo del protoboard y ya tenemos nuestro probador de leds.
+
+## 5. ¿Por qué funciona?
+El sistema cuenta con dos salidas: Un buzzer y un led. Estas se accionan simultaneamente, en funcion de la distancia a la que se encuentra en objeto. A una distancia menor que 300 cm se activan ambas salidas, iniciando con una frecuencia baja. Conforme se acortan las distancias, se aumenta le frecuencia de ambas salidas 
+
+## 6. Materiales 
+Potenciometro de rotación (Resistencia variable) a 150 Ohm (recomendado)
+Foto celdas (mínimo dos)
+Sensor ultrasónico HC-SR04 (mínimo dos)
+Papel aluminio (no más de 20 cm) y resistencias de 1000 Ohm 
+Sensor PIR para arduino
+Acelerómetro ADXL335 para Arduino
