@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/padapi03/Epitafio/master/Imagen/sensor.jpg
 Utilizamos una placa Arduino Mega 2560 como batería, luego conectamos uno de los pines de la placa al protoboard en el lado positivo y el pin ground de la placa tambien al protoboard. Luego de hacer eso, conectamos una resistencia al pin cargado positivamente del protoboard junto al lado negativo del led (Catodo) y el lado positivo del led (Anodo) al lado positivo del protoboard y ya tenemos nuestro probador de leds.
 
 ## 5. ¿Por qué funciona?
-El sistema cuenta con dos salidas: Un buzzer y un led. Estas se accionan simultaneamente, en funcion de la distancia a la que se encuentra en objeto. A una distancia menor que 300 cm se activan ambas salidas, iniciando con una frecuencia baja. Conforme se acortan las distancias, se aumenta le frecuencia de ambas salidas 
+El sistema cuenta con un sensor PIR se basa en la medición de la radiación infrarroja. Todos los cuerpos (vivos o no) emiten una cierta cantidad de energía infrarroja, mayor cuanto mayor es su temperatura. Estos dispositivos (PIR) disponen de un sensor piezo eléctrico capaz de captar esta radiación y convertirla en una señal eléctrica.
 
 ## 6. Materiales 
 Potenciometro de rotación (Resistencia variable) a 150 Ohm (recomendado)
