@@ -60,4 +60,4 @@ if(20 < distance && distance < 25){
   digitalWrite (8,LOW);
   }
 }
-}
+
